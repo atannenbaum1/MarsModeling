@@ -1,7 +1,7 @@
 %%% A.Tannenbaum %%%%
 %%%% The purpose of this code is to comapre the gravity anomaly under Mauna
-% Kea in Hawaii to that of Olympus Mons on Mars. The theory is that Olympus
-% Mons and Mauna Kea both have some sort of dense root, potentially made of
+% Loa in Hawaii to that of Olympus Mons on Mars. The theory is that Olympus
+% Mons and Mauna Loa both have some sort of dense root, potentially made of
 % Olivine
 clear, clc, close all
 f1 = figure(1);
